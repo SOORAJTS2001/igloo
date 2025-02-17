@@ -1,0 +1,64 @@
+code_value,code,code_list_name,code_name,create_or_change_date,definition,is_popular
+1,GRI,Guest Room Info,Accessible rooms,2011-09-29T00:00:00.000Z,Changed from Physically challenged rooms,false
+2,GRI,Guest Room Info,Nonsmoking rooms,2003-06-01T00:00:00.000Z,,false
+3,GRI,Guest Room Info,Suites,2003-06-01T00:00:00.000Z,,false
+4,GRI,Guest Room Info,Bungalows and villas,2003-06-01T00:00:00.000Z,,false
+5,GRI,Guest Room Info,Floors,2003-06-01T00:00:00.000Z,,false
+6,GRI,Guest Room Info,Executive floor,2003-06-01T00:00:00.000Z,,false
+7,GRI,Guest Room Info,Rooms that work,2003-06-01T00:00:00.000Z,,false
+8,GRI,Guest Room Info,Available rooms,2003-06-01T00:00:00.000Z,,false
+9,GRI,Guest Room Info,Available suites,2003-06-01T00:00:00.000Z,,false
+10,GRI,Guest Room Info,Double bedrooms,2003-06-01T00:00:00.000Z,,false
+11,GRI,Guest Room Info,King bedrooms,2003-06-01T00:00:00.000Z,,false
+12,GRI,Guest Room Info,Total rooms,2003-06-01T00:00:00.000Z,,false
+13,GRI,Guest Room Info,Apartments,2003-06-01T00:00:00.000Z,,false
+14,GRI,Guest Room Info,Queen bedrooms,2003-06-01T00:00:00.000Z,,false
+15,GRI,Guest Room Info,Penthouses,2003-06-01T00:00:00.000Z,,false
+16,GRI,Guest Room Info,Studios,2003-06-01T00:00:00.000Z,,false
+17,GRI,Guest Room Info,First floor rooms,2003-06-01T00:00:00.000Z,,false
+18,GRI,Guest Room Info,Smoking rooms,2003-06-01T00:00:00.000Z,,false
+19,GRI,Guest Room Info,Twin bedrooms,2003-06-01T00:00:00.000Z,,false
+20,GRI,Guest Room Info,Drive up rooms,2003-06-01T00:00:00.000Z,,false
+21,GRI,Guest Room Info,Rooms with internet access,2003-06-01T00:00:00.000Z,,false
+22,GRI,Guest Room Info,Freestanding units,2003-06-01T00:00:00.000Z,,false
+23,GRI,Guest Room Info,Air conditioned guest rooms,2003-06-01T00:00:00.000Z,,false
+24,GRI,Guest Room Info,Concierge levels,2003-06-01T00:00:00.000Z,,false
+25,GRI,Guest Room Info,Condos,2003-06-01T00:00:00.000Z,,false
+26,GRI,Guest Room Info,Club levels,2003-06-01T00:00:00.000Z,,false
+27,GRI,Guest Room Info,Total available rooms and suites,2003-06-01T00:00:00.000Z,,false
+28,GRI,Guest Room Info,Total rooms and suites,2003-06-01T00:00:00.000Z,,false
+29,GRI,Guest Room Info,Employees on property,2003-06-01T00:00:00.000Z,,false
+30,GRI,Guest Room Info,Employees working for property,2003-06-01T00:00:00.000Z,,false
+31,GRI,Guest Room Info,Separate floors for women,2003-06-01T00:00:00.000Z,,false
+32,GRI,Guest Room Info,Buildings,2005-01-04T00:00:00.000Z,,false
+33,GRI,Guest Room Info,Accommodations with balcony,2005-03-24T00:00:00.000Z,,false
+34,GRI,Guest Room Info,Adjoining rooms or suites,2005-03-24T00:00:00.000Z,,false
+35,GRI,Guest Room Info,Connecting rooms or suites,2005-03-24T00:00:00.000Z,,false
+36,GRI,Guest Room Info,Family/oversized accommodations,2005-03-24T00:00:00.000Z,,false
+37,GRI,Guest Room Info,Single-bedded accommodations,2005-03-24T00:00:00.000Z,,false
+38,GRI,Guest Room Info,Cabin,2005-10-18T00:00:00.000Z,,false
+39,GRI,Guest Room Info,Cottage,2005-10-18T00:00:00.000Z,,false
+40,GRI,Guest Room Info,Loft,2005-10-18T00:00:00.000Z,,false
+41,GRI,Guest Room Info,Parlour,2005-10-18T00:00:00.000Z,,false
+42,GRI,Guest Room Info,Room,2005-10-18T00:00:00.000Z,,false
+43,GRI,Guest Room Info,Lanai,2005-10-18T00:00:00.000Z,,false
+44,GRI,Guest Room Info,Bungalow,2005-11-11T00:00:00.000Z,,false
+45,GRI,Guest Room Info,Villa,2005-11-11T00:00:00.000Z,,false
+46,GRI,Guest Room Info,Efficiency,2005-11-11T00:00:00.000Z,,false
+47,GRI,Guest Room Info,All rooms non-smoking,2006-07-17T00:00:00.000Z,,false
+48,GRI,Guest Room Info,Double double bedrooms,2006-07-17T00:00:00.000Z,Two double beds,false
+49,GRI,Guest Room Info,King king bedrooms,2006-07-17T00:00:00.000Z,Two king beds,false
+50,GRI,Guest Room Info,Queen queen bedrooms,2006-07-17T00:00:00.000Z,Two queen beds,false
+51,GRI,Guest Room Info,Twin twin bedrooms,2006-07-17T00:00:00.000Z,Two twin beds,false
+73,GRI,Guest Room Info,Business plan,2011-05-27T00:00:00.000Z,,false
+74,GRI,Guest Room Info,Business class,2011-05-27T00:00:00.000Z,,false
+75,GRI,Guest Room Info,Classic,2011-05-27T00:00:00.000Z,,false
+76,GRI,Guest Room Info,Comfort,2011-05-27T00:00:00.000Z,,false
+77,GRI,Guest Room Info,Deluxe,2011-05-27T00:00:00.000Z,,false
+78,GRI,Guest Room Info,Deluxe suite,2011-05-27T00:00:00.000Z,,false
+79,GRI,Guest Room Info,Economy,2011-05-27T00:00:00.000Z,,false
+80,GRI,Guest Room Info,Luxury,2011-05-27T00:00:00.000Z,,false
+81,GRI,Guest Room Info,Premier,2011-05-27T00:00:00.000Z,,false
+82,GRI,Guest Room Info,Standard,2011-05-27T00:00:00.000Z,,false
+83,GRI,Guest Room Info,Superior,2011-12-06T00:00:00.000Z,,false
+84,GRI,Guest Room Info,Dormitory,2023-01-09T00:00:00.000Z,,false

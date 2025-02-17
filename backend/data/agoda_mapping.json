@@ -1,0 +1,15 @@
+{
+  "Name": "secondary_info.hotelInfo.name",
+  "StarRating": "secondary_info.hotelInfo.starRating",
+  "Address": "secondary_info.hotelInfo.address",
+  "HostInfo": "secondary_info.hostInfo",
+  "Description": "property_info.data.propertyDetailsSearch.propertyDetails.description",
+  "Highlights": "property_info.data.propertyDetailsSearch.propertyDetails.atfPropertyHighlights",
+  "Facilities": "property_info.data.propertyDetailsSearch.propertyDetails.contentFeatures.facilityHighlights",
+  "SpokenLanguages": "property_info.data.propertyDetailsSearch.propertyDetails.contentFeatures.featureGroups.name",
+  "Amenities": "property_info.data.propertyDetailsSearch.propertyDetails.contentFeatures.featureGroups",
+  "Policies": "secondary_info.aboutHotel.hotelPolicy,guestPolicies,otherPolicies",
+  "Check-in/Check-out": "secondary_info.aboutHotel.hotelPolicy.usefulInfoGroups.name: Check-in/Check-out",
+  "Extras": "secondary_info.aboutHotel.usefulInfoGroups.name:Extras",
+  "Room": "secondary_info.datelessMasterRoomInfo"
+}

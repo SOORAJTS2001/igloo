@@ -1,0 +1,11 @@
+.idea/
+.DS_Store/
+
+backend/__pycache__/
+backend/.idea/
+backend/venv/
+backend/.DS_Store/
+
+frontend/node_modules/
+frontend/.next/
+frontend/.DS_Store/

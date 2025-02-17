@@ -1,0 +1,32 @@
+[tool.poetry]
+name = "igloo-backend"
+version = "0.0.1"
+authors = ["Sooraj T S"]
+readme = "README.md"
+package-mode = false
+
+
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+
+[tool.poetry.dependencies]
+python="^3.12"
+pypdfium2 = "^4.30.1"
+openpyxl = "^3.1.5"
+markdown-it-py = "^3.0.0"
+python-docx = "^1.1.2"
+sqlalchemy = "^2.0.37"
+aiosqlite = "^0.20.0"
+greenlet = "^3.1.1"
+python-dotenv = "^1.0.1"
+fastapi = "^0.115.8"
+uvicorn = "^0.34.0"
+python-multipart = "^0.0.20"
+
+
+[tool.poetry.group.dev.dependencies]
+ruff="*"
